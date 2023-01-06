@@ -1,3 +1,7 @@
+This application shortens any inputed url and allow user to copy url to clipboard
+https://urlshortnerz.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
